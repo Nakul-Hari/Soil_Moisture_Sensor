@@ -1,6 +1,6 @@
 # Arduino Soil Moisture Sensor with Automatic Watering System
 
-This Arduino project utilizes a soil moisture sensor to monitor soil moisture levels and automatically adjust watering using a water pump to maintain optimal soil moisture for plant growth.
+This Arduino project that I made for my final course project for my Measrements Laboratory course utilizes a soil moisture sensor to monitor soil moisture levels and automatically adjust watering using a water pump to maintain optimal soil moisture for plant growth.
 
 ## Components Used
 - Arduino board (e.g., Arduino Uno)
